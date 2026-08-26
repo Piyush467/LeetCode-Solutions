@@ -64,3 +64,30 @@ Solutions are automatically synced from LeetCode:
 **Piyush**
 
 ⭐ Feel free to explore the solutions.
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+<!---LeetCode Topics End-->
