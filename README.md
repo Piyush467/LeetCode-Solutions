@@ -95,6 +95,7 @@ Solutions are automatically synced from LeetCode:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,4 +108,9 @@ Solutions are automatically synced from LeetCode:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 <!---LeetCode Topics End-->
