@@ -1,9 +1,19 @@
 # 🧩 LeetCode Solutions
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+  <a href="https://leetcode.com/u/PIYUSH-MEHROTRA/" target="_blank">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  </a>
+
+  <a href="https://leetcode.com/u/PIYUSH-MEHROTRA/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+  </a>
+
   <img src="https://img.shields.io/badge/DSA-007ACC?style=for-the-badge" alt="DSA">
+
+  <a href="https://codolio.com/profile/piyush.01" target="_blank">
+    <img src="https://img.shields.io/badge/Codolio-7C3AED?style=for-the-badge&logoColor=white" alt="Codolio">
+  </a>
 </p>
 
 A collection of my **LeetCode solutions in Java**, organized by problem difficulty.
