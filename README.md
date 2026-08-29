@@ -90,6 +90,7 @@ Solutions are automatically synced from LeetCode:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,4 +118,12 @@ Solutions are automatically synced from LeetCode:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 <!---LeetCode Topics End-->
