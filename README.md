@@ -114,6 +114,7 @@ Solutions are automatically synced from LeetCode:
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -131,6 +132,7 @@ Solutions are automatically synced from LeetCode:
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
