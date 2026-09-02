@@ -137,6 +137,7 @@ Solutions are automatically synced from LeetCode:
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,4 +154,8 @@ Solutions are automatically synced from LeetCode:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 <!---LeetCode Topics End-->
