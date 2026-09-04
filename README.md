@@ -155,6 +155,7 @@ Solutions are automatically synced from LeetCode:
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/3903-smallest-stable-index-i/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -188,4 +189,8 @@ Solutions are automatically synced from LeetCode:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0257-binary-tree-paths](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/0257-binary-tree-paths/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3903-smallest-stable-index-i](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/3903-smallest-stable-index-i/) | Easy |
 <!---LeetCode Topics End-->
