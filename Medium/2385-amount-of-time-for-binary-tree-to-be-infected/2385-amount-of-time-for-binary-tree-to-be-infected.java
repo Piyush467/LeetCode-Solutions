@@ -15,49 +15,43 @@
  */
 class Solution {
     public int amountOfTime(TreeNode root, int start) {
-         HashMap<TreeNode, TreeNode>map = new HashMap<>();
-        map.put(root,null);
-        ArrayDeque<TreeNode>q = new ArrayDeque<>();
-        TreeNode x=null;
-        q.add(root);
-        while(!q.isEmpty()){
-            x = q.remove();
-            if(x.val == start)break;
-            if(x.left != null){
-                q.add(x.left);
-                map.put(x.left, x);
-            }
-            if(x.right != null){
-                q.add(x.right);
-                map.put(x.right,x);
-            }
-        }
-        q = new ArrayDeque<>();
-        q.add(x);
-        HashSet<TreeNode>v = new HashSet<>();
-        v.add(x);
+       int[] maxTime = new int[1];
 
-        int ans = -1, len;
-        while(!q.isEmpty()){
-            ans++;
-            len = q.size();
+        burn(root, maxTime, start);
 
-            while(len-- > 0){
-                x = q.remove();
-                if(map.containsKey(x) && map.get(x)!=null && !v.contains(map.get(x))){
-                    q.add(map.get(x));
-                    v.add(map.get(x));
-                }
-                if(x.left != null && !v.contains(x.left)){
-                    q.add(x.left);
-                    v.add(x.left);
-                }
-                if(x.right!=null && !v.contains(x.right)){
-                    q.add(x.right);
-                    v.add(x.right);
-                }
-            }
+        return maxTime[0];
+    }
+    private int burn(TreeNode root, int[] maxTime, int start){
+        if (root == null) return 0;
+
+        if(root.val == start){
+            maxTime[0] = Math.max(maxTime[0], getHeight(root)-1);
+            return -1;
         }
-        return ans;
+
+        int left = burn(root.left, maxTime, start);
+        int right = burn(root.right, maxTime, start);
+
+        if(left >= 0 && right >= 0){
+            return 1 + Math.max(left, right);
+        }
+
+        if(left >= 0){
+            int rightBurnDist = Math.abs(right);
+            maxTime[0] = Math.max(maxTime[0], rightBurnDist + left);
+            return right - 1;
+        }
+
+        if(right >= 0){
+            int leftBurnDist = Math.abs(left);
+            maxTime[0] = Math.max(maxTime[0], leftBurnDist + right);
+            return left - 1;
+        }
+
+        return Integer.MAX_VALUE;
+    }
+    private int getHeight(TreeNode root){
+        if(root == null) return 0;
+        return 1 + Math.max(getHeight(root.left), getHeight(root.right));
     }
 }
