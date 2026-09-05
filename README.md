@@ -88,6 +88,7 @@ Solutions are automatically synced from LeetCode:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/0101-symmetric-tree/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0222-count-complete-tree-nodes/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/0257-binary-tree-paths/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0662-maximum-width-of-binary-tree/) | Medium |
@@ -122,6 +123,7 @@ Solutions are automatically synced from LeetCode:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/0101-symmetric-tree/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0222-count-complete-tree-nodes/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/0257-binary-tree-paths/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0662-maximum-width-of-binary-tree/) | Medium |
@@ -174,6 +176,7 @@ Solutions are automatically synced from LeetCode:
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0222-count-complete-tree-nodes/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -210,4 +213,8 @@ Solutions are automatically synced from LeetCode:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/3653-xor-after-range-multiplication-queries-i/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0222-count-complete-tree-nodes/) | Medium |
 <!---LeetCode Topics End-->
