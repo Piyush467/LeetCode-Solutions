@@ -81,6 +81,7 @@ Solutions are automatically synced from LeetCode:
 | ------- | ------- |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Tree
@@ -92,6 +93,7 @@ Solutions are automatically synced from LeetCode:
 | [0662-maximum-width-of-binary-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0662-maximum-width-of-binary-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +103,7 @@ Solutions are automatically synced from LeetCode:
 | [0662-maximum-width-of-binary-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0662-maximum-width-of-binary-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +111,7 @@ Solutions are automatically synced from LeetCode:
 | [0662-maximum-width-of-binary-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0662-maximum-width-of-binary-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -123,6 +127,7 @@ Solutions are automatically synced from LeetCode:
 | [0662-maximum-width-of-binary-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0662-maximum-width-of-binary-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
