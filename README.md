@@ -157,6 +157,7 @@ Solutions are automatically synced from LeetCode:
 | [3875-construct-uniform-parity-array-i](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/3904-smallest-stable-index-ii/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -195,6 +196,7 @@ Solutions are automatically synced from LeetCode:
 | ------- | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/3904-smallest-stable-index-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
