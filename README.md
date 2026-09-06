@@ -133,6 +133,7 @@ Solutions are automatically synced from LeetCode:
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/0115-distinct-subsequences/) | Hard |
 | [0257-binary-tree-paths](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/0257-binary-tree-paths/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
@@ -217,4 +218,8 @@ Solutions are automatically synced from LeetCode:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0222-count-complete-tree-nodes/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/0115-distinct-subsequences/) | Hard |
 <!---LeetCode Topics End-->
