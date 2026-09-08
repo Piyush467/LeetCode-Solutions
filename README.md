@@ -187,6 +187,7 @@ Solutions are automatically synced from LeetCode:
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3870-count-commas-in-range](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Binary Lifting
