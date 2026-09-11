@@ -179,6 +179,7 @@ Solutions are automatically synced from LeetCode:
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
+| [3225-maximum-score-from-grid-operations](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/3225-maximum-score-from-grid-operations/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/3653-xor-after-range-multiplication-queries-i/) | Medium |
@@ -202,6 +203,7 @@ Solutions are automatically synced from LeetCode:
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3225-maximum-score-from-grid-operations](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/3225-maximum-score-from-grid-operations/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -224,6 +226,7 @@ Solutions are automatically synced from LeetCode:
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3225-maximum-score-from-grid-operations](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/3225-maximum-score-from-grid-operations/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/3904-smallest-stable-index-ii/) | Medium |
@@ -246,6 +249,7 @@ Solutions are automatically synced from LeetCode:
 | ------- | ------- |
 | [0115-distinct-subsequences](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/0115-distinct-subsequences/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/0940-distinct-subsequences-ii/) | Hard |
+| [3225-maximum-score-from-grid-operations](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/3225-maximum-score-from-grid-operations/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
