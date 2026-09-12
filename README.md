@@ -129,6 +129,7 @@ Solutions are automatically synced from LeetCode:
 | ------- | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -180,6 +181,7 @@ Solutions are automatically synced from LeetCode:
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/3225-maximum-score-from-grid-operations/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/3653-xor-after-range-multiplication-queries-i/) | Medium |
@@ -244,12 +246,14 @@ Solutions are automatically synced from LeetCode:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0222-count-complete-tree-nodes/) | Medium |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0115-distinct-subsequences](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/0115-distinct-subsequences/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/0940-distinct-subsequences-ii/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/3225-maximum-score-from-grid-operations/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
