@@ -212,6 +212,7 @@ Solutions are automatically synced from LeetCode:
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/0836-rectangle-overlap/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -264,4 +265,8 @@ Solutions are automatically synced from LeetCode:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/3483-unique-3-digit-even-numbers/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
