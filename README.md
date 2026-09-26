@@ -98,6 +98,7 @@ Solutions are automatically synced from LeetCode:
 | [0257-binary-tree-paths](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/0257-binary-tree-paths/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0662-maximum-width-of-binary-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0662-maximum-width-of-binary-tree/) | Medium |
+| [0700-search-in-a-binary-search-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/0700-search-in-a-binary-search-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -141,6 +142,7 @@ Solutions are automatically synced from LeetCode:
 | [0257-binary-tree-paths](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/0257-binary-tree-paths/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0662-maximum-width-of-binary-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0662-maximum-width-of-binary-tree/) | Medium |
+| [0700-search-in-a-binary-search-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/0700-search-in-a-binary-search-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -275,4 +277,8 @@ Solutions are automatically synced from LeetCode:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/3525-find-x-value-of-array-ii/) | Hard |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
