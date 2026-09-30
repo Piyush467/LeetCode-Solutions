@@ -155,6 +155,7 @@ Solutions are automatically synced from LeetCode:
 | [0257-binary-tree-paths](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/0257-binary-tree-paths/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/0940-distinct-subsequences-ii/) | Hard |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -292,11 +293,13 @@ Solutions are automatically synced from LeetCode:
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
