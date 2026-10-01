@@ -98,6 +98,7 @@ Solutions are automatically synced from LeetCode:
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/0257-binary-tree-paths/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0450-delete-node-in-a-bst](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0450-delete-node-in-a-bst/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0662-maximum-width-of-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -143,6 +144,7 @@ Solutions are automatically synced from LeetCode:
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/0257-binary-tree-paths/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0450-delete-node-in-a-bst](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0450-delete-node-in-a-bst/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0662-maximum-width-of-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -292,6 +294,7 @@ Solutions are automatically synced from LeetCode:
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Stack
