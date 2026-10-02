@@ -159,6 +159,7 @@ Solutions are automatically synced from LeetCode:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0022-generate-parentheses/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/0115-distinct-subsequences/) | Hard |
 | [0257-binary-tree-paths](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/0257-binary-tree-paths/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
@@ -247,6 +248,7 @@ Solutions are automatically synced from LeetCode:
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0022-generate-parentheses/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/0257-binary-tree-paths/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -273,6 +275,7 @@ Solutions are automatically synced from LeetCode:
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0022-generate-parentheses/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/0115-distinct-subsequences/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/0940-distinct-subsequences-ii/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -312,6 +315,7 @@ Solutions are automatically synced from LeetCode:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0022-generate-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
