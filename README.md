@@ -97,6 +97,7 @@ Solutions are automatically synced from LeetCode:
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0222-count-complete-tree-nodes/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/0257-binary-tree-paths/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
@@ -114,6 +115,7 @@ Solutions are automatically synced from LeetCode:
 | [0098-validate-binary-search-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0098-validate-binary-search-tree/) | Medium |
 | [0101-symmetric-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/0101-symmetric-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/0257-binary-tree-paths/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
@@ -147,6 +149,7 @@ Solutions are automatically synced from LeetCode:
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0222-count-complete-tree-nodes/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/0257-binary-tree-paths/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
@@ -243,10 +246,12 @@ Solutions are automatically synced from LeetCode:
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Lowest Common Ancestor
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -305,6 +310,7 @@ Solutions are automatically synced from LeetCode:
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0701-insert-into-a-binary-search-tree/) | Medium |
