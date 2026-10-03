@@ -91,6 +91,7 @@ Solutions are automatically synced from LeetCode:
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0098-validate-binary-search-tree/) | Medium |
 | [0101-symmetric-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/0101-symmetric-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
@@ -110,6 +111,7 @@ Solutions are automatically synced from LeetCode:
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0098-validate-binary-search-tree/) | Medium |
 | [0101-symmetric-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/0101-symmetric-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -139,6 +141,7 @@ Solutions are automatically synced from LeetCode:
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0098-validate-binary-search-tree/) | Medium |
 | [0101-symmetric-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/0101-symmetric-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
@@ -300,6 +303,7 @@ Solutions are automatically synced from LeetCode:
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/0700-search-in-a-binary-search-tree/) | Easy |
