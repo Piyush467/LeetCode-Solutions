@@ -96,6 +96,7 @@ Solutions are automatically synced from LeetCode:
 | [0101-symmetric-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/0101-symmetric-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0173-binary-search-tree-iterator/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0222-count-complete-tree-nodes/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -149,6 +150,7 @@ Solutions are automatically synced from LeetCode:
 | [0101-symmetric-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/0101-symmetric-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0173-binary-search-tree-iterator/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0222-count-complete-tree-nodes/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -300,6 +302,7 @@ Solutions are automatically synced from LeetCode:
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0173-binary-search-tree-iterator/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -317,6 +320,7 @@ Solutions are automatically synced from LeetCode:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0098-validate-binary-search-tree/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0450-delete-node-in-a-bst/) | Medium |
@@ -326,6 +330,7 @@ Solutions are automatically synced from LeetCode:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/0020-valid-parentheses/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0173-binary-search-tree-iterator/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -342,4 +347,8 @@ Solutions are automatically synced from LeetCode:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
+## Iterator
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0173-binary-search-tree-iterator/) | Medium |
 <!---LeetCode Topics End-->
