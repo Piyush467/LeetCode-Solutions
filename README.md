@@ -214,6 +214,7 @@ Solutions are automatically synced from LeetCode:
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/3225-maximum-score-from-grid-operations/) | Hard |
+| [3364-minimum-positive-sum-subarray](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/3364-minimum-positive-sum-subarray/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/3483-unique-3-digit-even-numbers/) | Easy |
@@ -272,6 +273,7 @@ Solutions are automatically synced from LeetCode:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3225-maximum-score-from-grid-operations](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/3225-maximum-score-from-grid-operations/) | Hard |
+| [3364-minimum-positive-sum-subarray](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/3364-minimum-positive-sum-subarray/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/3904-smallest-stable-index-ii/) | Medium |
@@ -361,6 +363,7 @@ Solutions are automatically synced from LeetCode:
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
