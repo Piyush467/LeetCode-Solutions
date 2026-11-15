@@ -207,6 +207,7 @@ Solutions are automatically synced from LeetCode:
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0835-image-overlap](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0835-image-overlap/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -250,6 +251,7 @@ Solutions are automatically synced from LeetCode:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/0836-rectangle-overlap/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/3525-find-x-value-of-array-ii/) | Hard |
 | [3870-count-commas-in-range](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/3875-construct-uniform-parity-array-i/) | Easy |
@@ -272,6 +274,7 @@ Solutions are automatically synced from LeetCode:
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/3225-maximum-score-from-grid-operations/) | Hard |
 | [3364-minimum-positive-sum-subarray](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/3364-minimum-positive-sum-subarray/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/3653-xor-after-range-multiplication-queries-i/) | Medium |
@@ -299,6 +302,7 @@ Solutions are automatically synced from LeetCode:
 | [0022-generate-parentheses](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0022-generate-parentheses/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/0115-distinct-subsequences/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/0940-distinct-subsequences-ii/) | Hard |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/3225-maximum-score-from-grid-operations/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
