@@ -179,6 +179,7 @@ Solutions are automatically synced from LeetCode:
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Greedy
@@ -201,6 +202,7 @@ Solutions are automatically synced from LeetCode:
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Array
 | Problem Name | Difficulty |
@@ -306,6 +308,7 @@ Solutions are automatically synced from LeetCode:
 | [0940-distinct-subsequences-ii](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/0940-distinct-subsequences-ii/) | Hard |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/3225-maximum-score-from-grid-operations/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Design
