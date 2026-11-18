@@ -176,6 +176,7 @@ Solutions are automatically synced from LeetCode:
 | [0940-distinct-subsequences-ii](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/0940-distinct-subsequences-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
@@ -186,6 +187,7 @@ Solutions are automatically synced from LeetCode:
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
@@ -347,6 +349,7 @@ Solutions are automatically synced from LeetCode:
 | [0173-binary-search-tree-iterator](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0173-binary-search-tree-iterator/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Bracket Sequences
@@ -356,6 +359,7 @@ Solutions are automatically synced from LeetCode:
 | [0022-generate-parentheses](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/0022-generate-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Heap (Priority Queue)
