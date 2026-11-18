@@ -180,6 +180,7 @@ Solutions are automatically synced from LeetCode:
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Medium/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Piyush467/LeetCode-Solutions/tree/main/Hard/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Greedy
